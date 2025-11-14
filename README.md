@@ -1,9 +1,9 @@
 ### 👋   Hello! I'm Linda Nichols
 
-- :briefcase:  App Innovation Global Blackbelt @ Microsoft
-- ⚡  I work on event-driven architectures and low-code apps
+- :briefcase:  AI Architect @ Salesforce
+- ⚡  I work on agentic architectures
 - 👯  I co-founded and organize @norfolkjs and RevolutionConf
 -  :flashlight: Fun fact: I'm a permitted wildlife rehabilitator. 🦇 🐢 🐇 🦝
-- 💬  Find me on Twitter at @lynnaloo
+- 💬  Find me on Twitter and Instagram at @lynnaloo
 
 
