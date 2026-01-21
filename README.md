@@ -3,7 +3,7 @@
 - :briefcase:  AI Architect @ Salesforce
 - ⚡  I work on agentic architectures
 - 👯  I co-founded and organize @norfolkjs and RevolutionConf
--  :flashlight: Fun fact: I'm a permitted wildlife rehabilitator. 🦇 🐢 🐇 🦝
+-  :flashlight: Fun fact: I'm a permitted wildlife rehabilitator in Virginia. 🦇 🐢 🐇 🦝
 - 💬  Find me on Twitter and Instagram at @lynnaloo
 
 
