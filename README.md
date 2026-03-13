@@ -4,6 +4,6 @@
 - ⚡  I work on agentic architectures
 - 👯  I co-founded and organize @norfolkjs and RevolutionConf
 -  :flashlight: Fun fact: I'm a permitted wildlife rehabilitator in Virginia. 🦇 🐢 🐇 🦝
-- 💬  Find me on Twitter and Instagram at @lynnaloo
+- 💬  Find me on socials at @lynnaloo
 
 
